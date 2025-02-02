@@ -2,7 +2,6 @@ import 'package:flutter/material.dart';
 
 import 'widgets/animated_container.dart';
 
-
 class HeadphoneShop extends StatefulWidget {
   const HeadphoneShop({super.key});
 
@@ -58,7 +57,10 @@ class _HeadphoneShopState extends State<HeadphoneShop>
               height: .4 * MediaQuery.sizeOf(context).height,
             ),
             Stack(children: [
-              AnimatedContainerWidget(controller: _controller, slideAnimation: _slideAnimation, scaleAnimation: _scaleAnimation),
+              AnimatedContainerWidget(
+                  controller: _controller,
+                  slideAnimation: _slideAnimation,
+                  scaleAnimation: _scaleAnimation),
             ]),
           ],
         ),
@@ -103,8 +105,4 @@ class _HeadphoneShopState extends State<HeadphoneShop>
       ]),
     );
   }
-
-
-
 }
-

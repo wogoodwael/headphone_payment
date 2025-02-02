@@ -1,11 +1,9 @@
-
 import 'package:flutter/material.dart';
 
 import 'package:headphone_payment/presentation/widgets/check_circle_avatar.dart';
 import 'package:headphone_payment/presentation/widgets/content_column.dart';
 
 import 'widgets/dashed_line.dart';
-
 
 class ThankYouView extends StatelessWidget {
   const ThankYouView({super.key});
@@ -50,6 +48,3 @@ class ThankYouView extends StatelessWidget {
     );
   }
 }
-
-
-
