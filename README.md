@@ -19,9 +19,10 @@ samples, guidance on mobile development, and a full API reference.
 
 Here are some screenshots of the application:
 
-![Home Screen](screenshots/home.jpeg)
-![Bottom Sheet](screenshots/bottomSheet.jpeg)
-![Strip Payment](screenshots/stripe.jpeg)
-![AddNew Card](screenshots/addNew.jpeg)
-![Success Screen](screenshots/thanku.jpeg)
-![Paypal Screen](screenshots/paypal.jpeg)
+| Screenshot 1 | Screenshot 2 |
+|-------------|-------------|
+| ![Screenshot 1](screenshots/home.jpeg) | ![Screenshot 2](screenshots/bottomSheet.jpeg) |
+| Screenshot 3 | Screenshot 4 |
+| ![Screenshot 3](screenshots/stripe.jpeg) | ![Screenshot 4](screenshots/addNew.jpeg) |
+| Screenshot 5 | Screenshot 6 |
+| ![Screenshot 5](screenshots/thanku.jpeg) | ![Screenshot 6](screenshots/paypal.jpeg) |
