@@ -1,9 +1,9 @@
 import 'package:flutter/material.dart';
 import 'package:font_awesome_flutter/font_awesome_flutter.dart';
-import 'package:headphone_payment/presentation/widgets/card_info_widget.dart';
+import 'package:headphone_payment/home/widgets/card_info_widget.dart';
 import 'package:headphone_payment/core/utils/styles.dart';
-import 'package:headphone_payment/presentation/widgets/payment_info_item.dart';
-import 'package:headphone_payment/presentation/widgets/total_price_widget.dart';
+import 'package:headphone_payment/home/widgets/payment_info_item.dart';
+import 'package:headphone_payment/home/widgets/total_price_widget.dart';
 
 class ContentColumn extends StatelessWidget {
   const ContentColumn({
@@ -32,7 +32,7 @@ class ContentColumn extends StatelessWidget {
         ),
         const PaymentItemInfo(
           title: 'Date',
-          value: '01/24/2023',
+          value: '3/02/2025',
         ),
         const SizedBox(
           height: 20,
@@ -53,7 +53,7 @@ class ContentColumn extends StatelessWidget {
           thickness: 2,
           color: Colors.blue[200],
         ),
-        const TotalPrice(title: 'Total', value: r'$50.97'),
+        const TotalPrice(title: 'Total', value: r'$450'),
         const SizedBox(
           height: 30,
         ),

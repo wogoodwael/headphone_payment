@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 
-import 'package:headphone_payment/presentation/widgets/check_circle_avatar.dart';
-import 'package:headphone_payment/presentation/widgets/content_column.dart';
+import 'package:headphone_payment/home/widgets/check_circle_avatar.dart';
+import 'package:headphone_payment/home/widgets/content_column.dart';
 
 import 'widgets/dashed_line.dart';
 

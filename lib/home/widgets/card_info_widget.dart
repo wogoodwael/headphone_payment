@@ -40,7 +40,7 @@ class CardInfoWidget extends StatelessWidget {
                   ),
                 ),
                 TextSpan(
-                  text: 'Mastercard **78',
+                  text: 'Mastercard **42',
                   style: TextStyle(
                     color: Colors.black.withOpacity(0.699999988079071),
                     fontSize: 16,

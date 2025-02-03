@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:headphone_payment/core/widgets/bottom_sheet.dart';
-import 'package:headphone_payment/presentation/widgets/build_feature_icon.dart';
+import 'package:headphone_payment/home/widgets/build_feature_icon.dart';
 
 class AnimatedContainerWidget extends StatelessWidget {
   const AnimatedContainerWidget({
